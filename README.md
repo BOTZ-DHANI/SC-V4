@@ -6,7 +6,7 @@ rest api gw yg ada di atas
 
 # BACA !!
 Hapus newbase.json
-jika sc nya pingin bisa !!
+jika sc nya pingin run termux !!
 
 ukuran file foto jangan lebih dari 100kb !! 
 
